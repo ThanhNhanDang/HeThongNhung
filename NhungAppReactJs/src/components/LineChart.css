@@ -1,0 +1,26 @@
+.active-button {
+  color: aliceblue;
+  background-color: rgb(11, 132, 91);
+  
+}
+.active-button-stop {
+  color: aliceblue;
+  background-color: rgb(11, 132, 91);
+  font-weight: 800;
+  margin-right: 100px;
+}
+
+button {
+  width: 10%;
+  color: rgb(3, 63, 43);
+  background-color: aquamarine;
+  border: none;
+  border-radius: 5px;
+}
+
+.stop {
+  background: rgb(224, 13, 13);
+  color: white;
+  font-weight: 800;
+  margin-right: 100px;
+}
